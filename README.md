@@ -1,3 +1,4 @@
 # Practica01-Mi-Blog
-1.	Desarrollo de Paginas en el IDE Visual Studio Code
-______________________________________________________
+
+#1.	Desarrollo de Paginas en el IDE Visual Studio Code
+
