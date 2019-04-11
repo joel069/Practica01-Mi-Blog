@@ -7,7 +7,7 @@ INFORME DE RESULTADOS PAGINA WEB “UEFA CHAMPIONS LEAGUE”
 
 Esta página será la pagina principal en donde podemos ver que contiene la etiqueta<nav> que nos permitirá navegar por las demás páginas, además podemos ver que se le coloco 2 imágenes, 1 en la cabecera que esta denominada por la etiqueta <head> y otra dentro de un artículo definida por la etiqueta <article> , podemos observar además otras etiquetas tales como <aside>, <body>, <p>. A continuación se puede observar el desarrollo de la pagina dentro de nuestro IDE.
 
-![captura1]( file:///C:/Users/Joel%20Vasquez/Desktop/Capturas/1.png.png)
+![captura1]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/1.png)
 
 
 
