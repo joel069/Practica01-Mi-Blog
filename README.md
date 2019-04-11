@@ -178,19 +178,20 @@ Aquí podemos ver la siguiente página Himno.html en la que nos encontramos úni
 Aquí podemos apreciar los resultados de la pagina nombrada anteriormente , como podemos ver los errores
 son de igual forma que las anteriores paginas por no hacer uso de css.
 
-https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/24.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/25.png)
+
 2.4.	Página  Premios.html
 
 Aquí podemos aprecia la verificación de la página Premios.html en la herramienta W3C.
  
-https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/25.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/26.png)
 	
 2.5.	Página Trofeo.html
 
 Comprobación página Trofeo.html en el programa W3C, de igual manera solo contiene errores por el uso de css que no está implementado.
 
  
-https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/26.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/27.png)
 
 -	URL “Practica01 – Mi Blog”: Usuario joel069              https://github.com/joel069/Practica01-Mi-Blog
 -	URL Tutorial :                             Usuario joel069                https://github.com/joel069/Tutorial
@@ -222,5 +223,5 @@ Firma:
 
 Firma:
 
-https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/29.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/29.png)
  
