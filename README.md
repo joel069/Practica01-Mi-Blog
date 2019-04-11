@@ -7,7 +7,9 @@ INFORME DE RESULTADOS PAGINA WEB “UEFA CHAMPIONS LEAGUE”
 
 Esta página será la pagina principal en donde podemos ver que contiene la etiqueta<nav> que nos permitirá navegar por las demás páginas, además podemos ver que se le coloco 2 imágenes, 1 en la cabecera que esta denominada por la etiqueta <head> y otra dentro de un artículo definida por la etiqueta <article> , podemos observar además otras etiquetas tales como <aside>, <body>, <p>. A continuación se puede observar el desarrollo de la pagina dentro de nuestro IDE.
 
-![captura1]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/1.png)
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/1.png)
+
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/2.png)
 
 
 
@@ -18,35 +20,33 @@ Se puede apreciar el uso de los hipervínculos tanto de teléfono como de correo
 se uso &#169 para lograr ubicar en la página el símbolo de Copyright.
 
 
- 
-
-
-
+ ![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/3.png)
 
 1.2.	Pagina Himno .html
 
 En esta pagina podemos apreciar una estructura similar a la pagina anterior, ya que estamos siguiendo un formato de diseño similar para todas las paginas. A continuación podemos apreciar la sección que nos permite navegar entre todas las paginas, esta sección deberán contener todas las paginas respectivamente.
 
+
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/4.png)
+
     
 
 A continuación se muestra el desarrollo de la pagina Himno.html en nuestro IDE.
 
- 
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/5.png)
 
 
 
-
- 
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/6.png)
 
 
-             
-
-
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/7.png)
 
 En esta página se utilizó una etiqueta nueva, la etiqueta <iframe> la cual nos permite insertar 
 O compartir videos de varias plataformas de videos. En este caso la utilizamos para compartir un video de la plataforma YouTube. La etiqueta <center> se utilizó nada mas para ubicar nuestro video en el centro de la página, al igual que se la utilizo para poder centrar las imágenes.
+	
+	
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/8.png)
 
 
  
@@ -54,7 +54,7 @@ O compartir videos de varias plataformas de videos. En este caso la utilizamos p
 
 A demás se utilizo la etiqueta <em> la que nos permite poner en cursiva cualquier texto, tal como lo podemos observar a continuación.
 
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/9.png)
  
 
 
@@ -63,101 +63,58 @@ Se puede apreciar el uso de los hipervínculos tanto de teléfono como de correo
 se usó &#169 para lograr ubicar en la página el símbolo de Copyright además este pie de página va 
 entre la etiqueta <footer>.
 
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/10.png)
  
-
-
-
-
-
-
-
 
 1.3.	 Pagina fase Nockout.html
 
 A continuación veremos el desarrollo de la página siguiendo la estructura que más adelante se mostrara.
 Se utilizo el formato similar a las paginas anteriores únicamente en esta página no se añadió la etiqueta <iframe> la cual nos permitía visualizar videos ya que en esta página no era necesaria.
+	
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/11.png)
+
+
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/12.png)
+
+
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/13.png)
 
                     
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
 A continuación podemos ver la estructura del pie de página definida por la etiqueta <footer>, donde 
 Se puede apreciar el uso de los hipervínculos tanto de teléfono como de correo electrónico, además 
 se usó &#169 para lograr ubicar en la página el símbolo de Copyright además este pie de página va 
 entre la etiqueta <footer>.
 
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/14.png)
  
-
-
-
-
-
 
 
 1.4.	Página Trofeo.html
 
  A continuación se detalla el proceso de realización de la página Trofeo.html, mostraremos también el uso de la                                                                                                                  listas ordenadas tal y como se pedía en uno de los puntos de este informe. Se volvió a aplicar la etiqueta <iframe> para insertar un nuevo video.
+	
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/15.png)
 
 
  
-
-           En la imagen  vemos el uso de las listas desordenadas dentro de la etiqueta que permite navegar entre páginas.
+ En la imagen  vemos el uso de las listas desordenadas dentro de la etiqueta que permite navegar entre páginas.
+ 
+ ![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/16.png)
                
 
 La etiqueta <ul> define una lista desordenada, esta etiqueta será usada junto a la etiqueta <li> para así poder  complementar y crear las listas.
-
-
-
-	 
-
-
-
-
-
-
-
-
-
-
-
-
-
-                  
-
-
+	
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/17.png)
 
 A continuación podemos ver la estructura del pie de página definida por la etiqueta <footer>, donde 
 Se puede apreciar el uso de los hipervínculos tanto de teléfono como de correo electrónico, además 
 se usó &#169 para lograr ubicar en la página el símbolo de Copyright además este pie de página va 
 entre la etiqueta <footer>.
-
-
-
-
-
-
-
-
-
+	
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/18.png)
 
 
 1.5.	Página Premios.html
@@ -165,70 +122,14 @@ entre la etiqueta <footer>.
 A continuación se detalla el desarrollo de la pagina Premios.html en donde se pude ver el formato
 correcto para su realización.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/19.png)
 
 
 A continuación se detalla el código para la creación de una tabla con el siguiente formato.
 
-                                
+ ![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/20.png)                               
 
 Y aquí podemos ver el código :
-
-
-
-
-
-
-
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -239,32 +140,10 @@ se usó &#169 para lograr ubicar en la página el símbolo de Copyright además 
 entre la etiqueta <footer>.
 
 
- 
-
-
-
 
 A continuación se muestra la estructura con la que se desarrolló cada una de las páginas.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/21.png)
 
 
 A continuación se detalla las principales etiquetas con las que se trabajó en este proyecto, nombraremos algunas de
@@ -288,87 +167,31 @@ las más importantes.
 
 Como se puede apreciar en la imagen la pagina cuenta  con 2 errores ya que nos pide el uso de css y en este momento  no los estamos aplicando. Para poder verificar la pagina lo hicimos en la opción subir archivo, posteriormente señalamos la pagina respectiva y le damos clic en Comprobar.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/22.png)        
 2.2.	Página Himno.hml.
 
 Aquí podemos ver la siguiente página Himno.html en la que nos encontramos únicamente con los mismos errores que en la página anterior ya que no estamos usando css para poder centrar nuestras imágenes en la página.
 
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/23.png)
 
 2.3.	Pagina Fase Nockout.html
-
 Aquí podemos apreciar los resultados de la pagina nombrada anteriormente , como podemos ver los errores
 son de igual forma que las anteriores paginas por no hacer uso de css.
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/25.png)
 
 2.4.	Página  Premios.html
 
 Aquí podemos aprecia la verificación de la página Premios.html en la herramienta W3C.
  
-       
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/26.png)
 	
 2.5.	Página Trofeo.html
 
 Comprobación página Trofeo.html en el programa W3C, de igual manera solo contiene errores por el uso de css que no está implementado.
 
  
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/27.png)
 
 -	URL “Practica01 – Mi Blog”: Usuario joel069              https://github.com/joel069/Practica01-Mi-Blog
 -	URL Tutorial :                             Usuario joel069                https://github.com/joel069/Tutorial
@@ -394,5 +217,11 @@ RECOMENDACIONES:
 Docente:  Ing. Gabriel León Paredes, PhD.                Estudiante:  Vasquez Fajardo Franklin Joel
 
 
-Firma:                         Firma:         
+Firma:                         
+
+ ![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/28.png)
+
+Firma:
+
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/29.png)
  
