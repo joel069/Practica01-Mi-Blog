@@ -1,3 +1,3 @@
 # Practica01-Mi-Blog
-________
-Hola
+1.	Desarrollo de Paginas en el IDE Visual Studio Code
+______________________________________________________
