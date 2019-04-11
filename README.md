@@ -172,27 +172,25 @@ Como se puede apreciar en la imagen la pagina cuenta  con 2 errores ya que nos p
 
 Aquí podemos ver la siguiente página Himno.html en la que nos encontramos únicamente con los mismos errores que en la página anterior ya que no estamos usando css para poder centrar nuestras imágenes en la página.
 
-![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/3.png)
-2.3.	Pagina Fase Nockout.html
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/23.png)
 
+2.3.	Pagina Fase Nockout.html
 Aquí podemos apreciar los resultados de la pagina nombrada anteriormente , como podemos ver los errores
 son de igual forma que las anteriores paginas por no hacer uso de css.
 
- ![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/28.png)
-
+https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/24.png)
 2.4.	Página  Premios.html
 
 Aquí podemos aprecia la verificación de la página Premios.html en la herramienta W3C.
  
- ![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/29.png)   
-
+https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/25.png)
 	
 2.5.	Página Trofeo.html
 
 Comprobación página Trofeo.html en el programa W3C, de igual manera solo contiene errores por el uso de css que no está implementado.
 
  
-
+https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/26.png)
 
 -	URL “Practica01 – Mi Blog”: Usuario joel069              https://github.com/joel069/Practica01-Mi-Blog
 -	URL Tutorial :                             Usuario joel069                https://github.com/joel069/Tutorial
@@ -218,5 +216,11 @@ RECOMENDACIONES:
 Docente:  Ing. Gabriel León Paredes, PhD.                Estudiante:  Vasquez Fajardo Franklin Joel
 
 
-Firma:                         Firma:         
+Firma:                         
+
+ ![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/28.png)
+
+Firma:
+
+https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/29.png
  
