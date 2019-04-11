@@ -222,5 +222,5 @@ Firma:
 
 Firma:
 
-https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/29.png
+https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/29.png)
  
