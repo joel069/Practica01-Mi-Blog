@@ -131,7 +131,6 @@ A continuación se detalla el código para la creación de una tabla con el sigu
 
 Y aquí podemos ver el código :
 
-![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/21.png)
 
 
 
@@ -140,8 +139,7 @@ Se puede apreciar el uso de los hipervínculos tanto de teléfono como de correo
 se usó &#169 para lograr ubicar en la página el símbolo de Copyright además este pie de página va 
 entre la etiqueta <footer>.
 
-![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/22.png)
- 
+
 
 A continuación se muestra la estructura con la que se desarrolló cada una de las páginas.
 
@@ -169,16 +167,12 @@ las más importantes.
 
 Como se puede apreciar en la imagen la pagina cuenta  con 2 errores ya que nos pide el uso de css y en este momento  no los estamos aplicando. Para poder verificar la pagina lo hicimos en la opción subir archivo, posteriormente señalamos la pagina respectiva y le damos clic en Comprobar.
 
-![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/25.png)
-
-        
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/22.png)        
 2.2.	Página Himno.hml.
 
 Aquí podemos ver la siguiente página Himno.html en la que nos encontramos únicamente con los mismos errores que en la página anterior ya que no estamos usando css para poder centrar nuestras imágenes en la página.
 
-![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/26.png)
-
-
+![capturas]( https://github.com/joel069/Practica01-Mi-Blog/blob/master/imagenes/3.png)
 2.3.	Pagina Fase Nockout.html
 
 Aquí podemos apreciar los resultados de la pagina nombrada anteriormente , como podemos ver los errores
